@@ -1,7 +1,7 @@
-<h1><b>Tugas 1 Game Dev
+<h1><b>Tugas 1 Game Dev<h1>
 
 <h2>
-Nama    : Akmad Faiz Fildan Nugroho
+Nama    : Akmad Faiz Fildan Nugroho<br>
 NIM     : 32602000103
 <h2>
 
